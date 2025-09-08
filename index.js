@@ -5,8 +5,9 @@ const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
   "Chúc vợ iu Hoàng Dung của anh tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
-  "Học kỳ tới auto điểm cao, học bổng bay vào tay 😎✨",
-  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho vợ iu chill tẹt ga 🎁🎉"
+  "Những học kỳ tới auto điểm cao, học đâu tủ đó hehe 😎✨",
+  "Sinh nhật thì đầy niềm vui, quà nhận không kịp đếm, phiền muộn tự né ra cho vợ iu chill tẹt ga 🎁🎉",
+  "Anh yêu Hoàng dung rất nhiều, nhớ đó nha ahihi"
 ];
 
 giftBox.addEventListener('click', () => {
